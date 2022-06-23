@@ -1,4 +1,4 @@
- 
+ /*
  let paneles = "grandes";
 
  if (paneles === "grandes"){
@@ -30,5 +30,32 @@ if (num1 < num2){
 }else{
     alert("no entrar")
 }
+*/
+/*
+var x=1;
+while(x < 10){
+    document.write(x+ "Bucle while");
+    x++;
+}
+*/
+/*
+var b=30;
+while(b < 100){
+    alert(b);
+    b++;
+}
+*/
+/*
+var z=200;
+while(z < 500){
+    alert(z);
+    z++;
+}
+*/
 
- 
+var m=30;
+while(m >= 10){
+    alert(m);
+    m--;
+}
+
